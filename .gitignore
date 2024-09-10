@@ -1,0 +1,5 @@
+venv/
+build/
+dist/
+AutoPlateCal.spec
+AutoPlateCal-time-delay.spec
